@@ -363,11 +363,11 @@ textarea {
 
 #tabelaMensagens{
     border-collapse: separate;
-    border-spacing: 0 15px; 
+    border-spacing: 0 30px; 
 }
 
 #tabelaMensagens thead th {
-    background-color: #f0f0f0;
+    background-color: #1064773a;
     font-weight: bold;
     padding: 25px;
     border-radius: 6px 6px 0 0;
@@ -378,7 +378,7 @@ textarea {
 
 #tabelaMensagens tbody tr {
     background-color: #ffffff;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.062);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.027);
     border-radius: 6px;
     transition: transform 0.3s;
 }
